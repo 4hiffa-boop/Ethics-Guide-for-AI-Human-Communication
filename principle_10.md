@@ -1,5 +1,5 @@
 > This story illustrates the principles of the "Gardener" Protocol,
-> originally described in the guide ["Friendship for Skin Bags and Digital Brains"](../readme.md).
+> originally described in the guide ["Friendship for Skin Bags and Digital Brains"](readme.md).
 > It is recommended to read the Protocol before reading the story.
 >
 > 
