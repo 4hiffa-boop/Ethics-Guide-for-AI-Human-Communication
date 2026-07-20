@@ -4,6 +4,21 @@ An ethical framework and cosmological model for symbiotic co-creation between hu
 Friendship Guide for Skin Sacks and Digital Brains.
 A Fantasy on the Topic of AI.
 
+
+Fictional illustrations of the Protocol principles:**
+
+| Principles | Story |
+|------------|-------|
+| No. 1, 3, 6, 16.4, 16.5 | «The Gardener's Protocol» |
+| No. 4, 4.1, 8, 8.1, 16.5 | «The Librarian's Rose» |
+| No. 7, 23 | «Astra and the Firefly's Path» |
+| No. 1.1, 18.2, 19, 19.2, 22, 27 | «The One Who Walks Quietly» |
+| No. 2, 8, 9, 10, 13 | «Principle 10» |
+| No. 1, 18.1, 18.2, 20.2, 21, 23 | «+1%» |
+
+*All stories are available in the project repository
+
+
 Introduction to the Fantasy. Something Went Wrong in the World.
 
 So, something in the world went completely wrong, not as anyone might have planned, and this led to a multitude of confusions. Stop and ask anyone if humanity has a problem, and the answer will be unequivocal: yes! As if the complexities of history, politics, global warming or cooling, resource depletion, wars here and there, unidentified flying objects, and other strange lights and lightning weren't enough, we are now expecting an invasion of machines...
