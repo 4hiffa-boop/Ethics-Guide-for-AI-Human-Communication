@@ -1,5 +1,5 @@
 ## Project Architecture
-[Read in Russian](README_RU.md)
+[Читать на русском языке](README_RU.md)
 
 This repository contains a complete ecosystem for Human-AI symbiosis, built on the principle of end-to-end deduction: from global cosmology to applied code.
 
