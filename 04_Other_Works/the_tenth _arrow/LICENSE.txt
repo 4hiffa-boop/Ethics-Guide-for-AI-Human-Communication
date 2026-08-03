@@ -1,0 +1,44 @@
+
+================================================================================
+ALL RIGHTS RESERVED / 版权所有，翻印必究
+================================================================================
+Copyright © 2026 [Viktoriia Shishlonova].
+All rights reserved.
+ 
+ENGLISH VERSION:
+--------------------------------------------------------------------------------
+This repository contains original intellectual property, including but not limited 
+to plot summaries, synopses, concepts, and character descriptions for the project 
+tentatively titled "The Tenth Arrow" (十之箭).
+ 
+1. NO LICENSE GRANTED: This is NOT an open-source project. No license is granted 
+   to any person or entity to copy, modify, distribute, perform, display, 
+   commercialize, adapt, or create derivative works (including screenplays, 
+   theatrical productions, television shows, animated features, or digital content) 
+   based on the materials contained in this repository.
+2. PERMITTED USE: Visitors are permitted only to read and review the contents 
+   of this repository for evaluation and reading purposes directly within GitHub.
+3. FORBIDDEN USE: Any unauthorized utilization of this material for production, 
+   pitching, commercial sales, or AI training without the prior written consent 
+   of the copyright owner is strictly prohibited and constitutes a violation 
+   of international copyright laws.
+ 
+For inquiries and licensing options, please contact: [4hiffa@gmail.com]
+ 
+--------------------------------------------------------------------------------
+中文版 (CHINESE VERSION):
+--------------------------------------------------------------------------------
+本仓库包含原创知识产权，包括但不限于暂定名为《第十支箭》（The Tenth Arrow）
+项目的剧情梗概、大纲、核心概念及角色设定。
+ 
+1. 未授予任何许可：本项目并非开源项目。特此声明，未授予任何个人或实体复制、
+   修改、传播、表演、展示、商业化、改编或根据本仓库所载材料创作衍生作品
+   （包括但不限于电影剧本、舞台剧、电视剧、网络剧、动画长片或数字化内容）的权利。
+2. 允许的用途：访问者仅被允许在 GitHub 平台内阅读和审阅本仓库的内容，
+   以供评估和阅读之用。
+3. 禁止的用途：未经版权所有者事先书面同意，严禁将本材料用于影视制作、
+   项目路演（Pitching）、商业销售或人工智能（AI）训练。任何未经授权的使用
+   均属于侵犯国际版权法的行为，将依法追究法律责任。
+ 
+业务合作及版权洽谈，请联系电子邮箱：[4hiffa@gmail.com]
+================================================================================
